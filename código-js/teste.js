@@ -11,8 +11,6 @@ function capturar() {
     let caminhoimagem = climaHumor(var1, var2, var3);
 
     adcImagem(caminhoimagem);
-
-    //retornar essa funçao dentro do id valor digitado?
 }
 
 function adcImagem(caminhoimagem){
@@ -23,7 +21,6 @@ function adcImagem(caminhoimagem){
     
 }
 
-// essa função ira receber as 3 temperaturas correspondente aos 3 dias. e retornará o caminho da img correspondente ao humor do dia
 function climaHumor(value1, value2, value3) {
 
     let comparacao = (value1 > value2);
@@ -60,4 +57,4 @@ function climaHumor(value1, value2, value3) {
     }
 
 }
-climaHumor(26, 22, 21)
+climaHumor()

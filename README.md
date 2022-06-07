@@ -1,4 +1,4 @@
-# Desafio do curso START Latam envolvendo JS.
+# Desafio do programa START Latam envolvendo JS.
 
 ### Desafio desenvolvido na linguagem  ![js (1)](https://user-images.githubusercontent.com/97626768/172022775-5118ec18-165c-44cc-bf68-55dc059cca16.png):
 1 - O inverno é uma estação maravilhosa, não é? Aquele fiozinho é bom demais. Faça uma função que represente as situações abaixo em que o humor das pessoas é definido de acordo com as tendências climáticas. Com base nas temperaturas dos últimos três dias, as pessoas podem estar tristes ou felizes.
